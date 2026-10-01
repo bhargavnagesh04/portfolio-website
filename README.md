@@ -3,7 +3,7 @@
 A responsive personal portfolio website that shows my projects, skills, and learning journey as a BCA student interested in AI and machine learning.
 
 ## Live site
-https://YOUR-SITE-NAME.netlify.app
+https://bhargavnagesh-portfolio.netlify.app
 
 ## Features
 - Responsive layout that works on phones and desktops
